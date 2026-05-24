@@ -1,0 +1,88 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kartik Bhalodiya GitHub profile dashboard</title>
+  <desc id="desc">A dark profile banner with dashboard cards for building, shipping, and improving software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.5" stop-color="#0B172A"/>
+      <stop offset="1" stop-color="#10223B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="38" x2="1030" y2="310" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.45" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(182 74) rotate(45) scale(370 210)">
+      <stop stop-color="#22D3EE" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1018 286) rotate(132) scale(420 240)">
+      <stop stop-color="#A78BFA" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.38"/>
+    </filter>
+    <style>
+      .label { fill: #8EA4BF; font: 600 15px Inter, Segoe UI, Arial, sans-serif; letter-spacing: 2px; }
+      .title { fill: #F8FAFC; font: 800 58px Inter, Segoe UI, Arial, sans-serif; }
+      .subtitle { fill: #B7C6D8; font: 500 22px Inter, Segoe UI, Arial, sans-serif; }
+      .cardTitle { fill: #E5F6FF; font: 700 18px Inter, Segoe UI, Arial, sans-serif; }
+      .cardBody { fill: #A8B8CC; font: 500 15px Inter, Segoe UI, Arial, sans-serif; }
+      .metric { fill: #FFFFFF; font: 800 34px Inter, Segoe UI, Arial, sans-serif; }
+      .metricLabel { fill: #91A4BB; font: 600 13px Inter, Segoe UI, Arial, sans-serif; letter-spacing: 1.5px; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowB)"/>
+
+  <g opacity="0.16">
+    <path d="M72 72H1128" stroke="#93C5FD" stroke-width="1"/>
+    <path d="M72 132H1128" stroke="#93C5FD" stroke-width="1"/>
+    <path d="M72 192H1128" stroke="#93C5FD" stroke-width="1"/>
+    <path d="M72 252H1128" stroke="#93C5FD" stroke-width="1"/>
+    <path d="M180 34V326" stroke="#93C5FD" stroke-width="1"/>
+    <path d="M360 34V326" stroke="#93C5FD" stroke-width="1"/>
+    <path d="M540 34V326" stroke="#93C5FD" stroke-width="1"/>
+    <path d="M720 34V326" stroke="#93C5FD" stroke-width="1"/>
+    <path d="M900 34V326" stroke="#93C5FD" stroke-width="1"/>
+    <path d="M1080 34V326" stroke="#93C5FD" stroke-width="1"/>
+  </g>
+
+  <path d="M68 286C170 214 249 249 349 190C441 136 520 83 631 118C752 156 819 272 940 227C1019 198 1074 130 1138 100" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+  <path d="M68 286C170 214 249 249 349 190C441 136 520 83 631 118C752 156 819 272 940 227C1019 198 1074 130 1138 100" stroke="#E0F2FE" stroke-width="10" stroke-linecap="round" opacity="0.08"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="66" y="55" width="520" height="200" rx="24" fill="#0F1C31" fill-opacity="0.88" stroke="#27405E"/>
+    <text x="102" y="101" class="label">PROFILE DASHBOARD</text>
+    <text x="100" y="163" class="title">Kartik Bhalodiya</text>
+    <text x="103" y="207" class="subtitle">Building practical software with clean UX, reliable</text>
+    <text x="103" y="237" class="subtitle">systems, and production-minded execution.</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="640" y="59" width="204" height="116" rx="20" fill="#0E1A2C" fill-opacity="0.9" stroke="#284761"/>
+    <text x="666" y="100" class="metric">01</text>
+    <text x="666" y="132" class="metricLabel">BUILD</text>
+    <text x="666" y="155" class="cardBody">Ideas into code</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="872" y="59" width="262" height="116" rx="20" fill="#0E1A2C" fill-opacity="0.9" stroke="#284761"/>
+    <text x="898" y="100" class="metric">02</text>
+    <text x="898" y="132" class="metricLabel">SHIP</text>
+    <text x="898" y="155" class="cardBody">Polished, usable releases</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="640" y="206" width="494" height="96" rx="20" fill="#0E1A2C" fill-opacity="0.9" stroke="#284761"/>
+    <text x="666" y="244" class="cardTitle">Engineering signal</text>
+    <text x="666" y="274" class="cardBody">Full-stack thinking, AI tooling, automation, and maintainable product interfaces.</text>
+  </g>
+
+  <circle cx="1094" cy="84" r="8" fill="#22C55E"/>
+  <circle cx="1120" cy="84" r="8" fill="#38BDF8"/>
+  <circle cx="1146" cy="84" r="8" fill="#A78BFA"/>
+</svg>
