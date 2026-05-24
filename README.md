@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="./assets/profile-dashboard.svg" alt="Kartik Bhalodiya profile dashboard" width="100%" />
+  <img src="./assets/profile-dashboard.svg" alt="Kartik Bhalodiya engineering profile dashboard" width="100%" />
 </div>
 
-<br />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Full-stack+developer;AI+tooling+builder;Dashboard+and+automation+focused" alt="Typing introduction" />
+</div>
 
 <div align="center">
   <a href="https://github.com/kartkbhalodiya">
@@ -12,21 +14,32 @@
   <img src="https://img.shields.io/github/followers/kartkbhalodiya?style=for-the-badge&logo=github&label=Followers&color=22c55e&labelColor=0B1220" alt="GitHub followers" />
 </div>
 
-<h2 align="center">Software builder focused on usable products, clean systems, and fast execution.</h2>
+<h2 align="center">I build practical software: dashboards, AI tools, automation, APIs, and mobile-ready product flows.</h2>
 
 <p align="center">
-  I turn ideas into working software, refine rough workflows into polished interfaces, and keep the engineering path practical from first commit to release.
+  My focus is simple: understand the real workflow, build the useful version first, then improve the interface, reliability, and deployment path until it feels ready to use.
 </p>
 
 ---
 
-## Command Center
+## Control Panel
 
-| Focus | What I Build | Engineering Standard |
+| Signal | Current Direction | Quality Bar |
 | --- | --- | --- |
-| Product dashboards | Clear, responsive interfaces that make status and actions obvious | Fast load, accessible layout, maintainable components |
-| AI and automation tools | Assistants, workflows, and developer utilities that reduce manual effort | Safe defaults, clear failure states, observable behavior |
-| Full-stack systems | Frontend, backend, API, database, deployment, and integration work | Simple contracts, secure config, predictable releases |
+| Product UI | Clean dashboards, admin panels, and task-focused screens | Clear state, responsive layout, no visual clutter |
+| AI and automation | Prompt tools, assistant workflows, and time-saving utilities | Predictable behavior, safe failures, useful output |
+| Backend systems | APIs, auth, persistence, deployment, and integrations | Simple contracts, secure config, observable errors |
+| Mobile and app work | Flutter and app-connected product experiences | Smooth flows, local state, real device constraints |
+
+## Featured Repository Board
+
+| Repository | Stack Signal | Why It Matters |
+| --- | --- | --- |
+| [TODO-S](https://github.com/kartkbhalodiya/TODO-S) | ![Top language](https://img.shields.io/github/languages/top/kartkbhalodiya/TODO-S?style=flat-square&color=38bdf8) ![Last commit](https://img.shields.io/github/last-commit/kartkbhalodiya/TODO-S?style=flat-square&label=updated&color=22c55e) | Task and productivity project space. |
+| [Smart-CITY](https://github.com/kartkbhalodiya/Smart-CITY) | ![Top language](https://img.shields.io/github/languages/top/kartkbhalodiya/Smart-CITY?style=flat-square&color=38bdf8) ![Last commit](https://img.shields.io/github/last-commit/kartkbhalodiya/Smart-CITY?style=flat-square&label=updated&color=22c55e) | Smart-city application and backend direction. |
+| [PromptX](https://github.com/kartkbhalodiya/PromptX) | ![Top language](https://img.shields.io/github/languages/top/kartkbhalodiya/PromptX?style=flat-square&color=38bdf8) ![Last commit](https://img.shields.io/github/last-commit/kartkbhalodiya/PromptX?style=flat-square&label=updated&color=22c55e) | Prompting and AI tooling experiments. |
+| [Face_Scan_Attandance_OpenCV](https://github.com/kartkbhalodiya/Face_Scan_Attandance_OpenCV) | ![Top language](https://img.shields.io/github/languages/top/kartkbhalodiya/Face_Scan_Attandance_OpenCV?style=flat-square&color=38bdf8) ![Last commit](https://img.shields.io/github/last-commit/kartkbhalodiya/Face_Scan_Attandance_OpenCV?style=flat-square&label=updated&color=22c55e) | Computer-vision attendance project. |
+| [e-Commerce](https://github.com/kartkbhalodiya/e-Commerce) | ![Top language](https://img.shields.io/github/languages/top/kartkbhalodiya/e-Commerce?style=flat-square&color=38bdf8) ![Last commit](https://img.shields.io/github/last-commit/kartkbhalodiya/e-Commerce?style=flat-square&label=updated&color=22c55e) | MERN ecommerce application work. |
 
 ## Tech Radar
 
@@ -34,7 +47,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,flutter,dart,androidstudio,firebase,supabase,mongodb,postgres,git,github,vscode,figma,vercel&perline=11" alt="Technology icons" />
 </div>
 
-## GitHub Dashboard
+<br />
+
+<div align="center">
+  <img src="./assets/build-pipeline.svg" alt="Build pipeline from idea to improve" width="100%" />
+</div>
+
+## Live GitHub Dashboard
 
 <div align="center">
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartkbhalodiya&theme=tokyonight" alt="GitHub profile details" />
@@ -60,22 +79,20 @@
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kartkbhalodiya&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </div>
 
-## Operating Principles
+## Trophy Case
 
-| Principle | How I Apply It |
+<div align="center">
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=kartkbhalodiya&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub profile trophies" />
+</div>
+
+## Operating System
+
+| Layer | What I Care About |
 | --- | --- |
-| Clarity first | Make the main action visible and the system state obvious. |
-| Build for real users | Prefer working flows over decorative screens that do not solve the task. |
-| Keep systems simple | Use the smallest architecture that handles the current load and can grow cleanly. |
-| Ship with feedback | Test the visible result, fix the blockers, then improve the polish. |
-
-## Current Build Board
-
-| Track | Status | Direction |
-| --- | --- | --- |
-| Web apps | Active | Better dashboards, smoother UX, stronger frontend structure |
-| AI tooling | Active | Practical assistants, automation flows, and model-powered features |
-| Mobile and backend | Growing | App features, APIs, persistence, auth, and deployable releases |
+| Requirements | Find the actual user job before picking the stack. |
+| Interface | Make the important action obvious and keep the screen calm. |
+| Backend | Keep APIs boring, explicit, secure, and easy to debug. |
+| Delivery | Verify the visible result, then ship the smallest useful release. |
 
 ## Connect
 
@@ -91,5 +108,5 @@
 ---
 
 <div align="center">
-  <strong>Build clear. Ship useful. Improve continuously.</strong>
+  <strong>Build clear systems. Ship useful products. Improve with evidence.</strong>
 </div>

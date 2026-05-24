@@ -1,0 +1,60 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Build pipeline</title>
+  <desc id="desc">A visual pipeline showing idea, design, code, test, deploy, and improve.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="88" y1="85" x2="1112" y2="85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.33" stop-color="#34D399"/>
+      <stop offset="0.66" stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <style>
+      .title { fill: #F8FAFC; font: 800 18px Inter, Segoe UI, Arial, sans-serif; }
+      .sub { fill: #9DB0C7; font: 600 13px Inter, Segoe UI, Arial, sans-serif; }
+      .num { fill: #06111F; font: 900 18px Inter, Segoe UI, Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect width="1200" height="170" rx="24" fill="url(#bg)"/>
+  <path d="M108 85H1092" stroke="url(#flow)" stroke-width="6" stroke-linecap="round"/>
+
+  <g>
+    <circle cx="108" cy="85" r="29" fill="#22D3EE"/>
+    <text x="98" y="92" class="num">01</text>
+    <text x="70" y="139" class="title">Idea</text>
+    <text x="50" y="158" class="sub">Find the job</text>
+  </g>
+  <g>
+    <circle cx="304" cy="85" r="29" fill="#38BDF8"/>
+    <text x="294" y="92" class="num">02</text>
+    <text x="263" y="139" class="title">Design</text>
+    <text x="242" y="158" class="sub">Shape the flow</text>
+  </g>
+  <g>
+    <circle cx="500" cy="85" r="29" fill="#34D399"/>
+    <text x="490" y="92" class="num">03</text>
+    <text x="466" y="139" class="title">Code</text>
+    <text x="443" y="158" class="sub">Build the path</text>
+  </g>
+  <g>
+    <circle cx="696" cy="85" r="29" fill="#FBBF24"/>
+    <text x="686" y="92" class="num">04</text>
+    <text x="664" y="139" class="title">Test</text>
+    <text x="637" y="158" class="sub">Break it early</text>
+  </g>
+  <g>
+    <circle cx="892" cy="85" r="29" fill="#FB7185"/>
+    <text x="882" y="92" class="num">05</text>
+    <text x="852" y="139" class="title">Deploy</text>
+    <text x="827" y="158" class="sub">Release cleanly</text>
+  </g>
+  <g>
+    <circle cx="1092" cy="85" r="29" fill="#A78BFA"/>
+    <text x="1082" y="92" class="num">06</text>
+    <text x="1045" y="139" class="title">Improve</text>
+    <text x="1020" y="158" class="sub">Measure and refine</text>
+  </g>
+</svg>
